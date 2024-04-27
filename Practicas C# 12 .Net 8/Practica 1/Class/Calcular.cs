@@ -23,8 +23,6 @@
             valortotal2 = (suma1 * suma2);
             Console.WriteLine($"El producto de sus valores es: {valortotal2} ");
 
-            Console.WriteLine("Gracias por usar la calculadora migue");
-
             
         }
 
